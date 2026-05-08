@@ -8,7 +8,7 @@ import json
 # --- CONFIGURAZIONE PAGINA ---
 st.set_page_config(layout="wide", page_title="Gantt Builder Dinamico")
 
-st.title("📊 Gantt Builder Dinamico")
+st.title("Creatore Gantt Dinamico")
 st.write("Aggiungi i task dal menu laterale. Scegli nome, date e colore. Il grafico si aggiornerà automaticamente.")
 
 # --- PALETTE COLORI PREDEFINITA ---
